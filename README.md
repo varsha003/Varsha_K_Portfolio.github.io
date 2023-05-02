@@ -2,8 +2,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Portfolio</title>
+  
   <link rel="stylesheet" type="text/css" href="styles.css">
+  <title>My Portfolio</title>
 </head>
 <body>
   <header>
@@ -11,7 +12,7 @@
     <nav>
       <ul>
         <li><a href="#About">About</a></li>
-        <li><a href="#Experience">About</a></li>
+        <li><a href="#Experience">Experience</a></li>
         <li><a href="#Projects">Projects</a></li>
         <li><a href="#Skills">Skills</a></li>
         <li><a href="#Contact">Contact</a></li>
