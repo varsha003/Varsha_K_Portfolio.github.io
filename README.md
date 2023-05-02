@@ -1,8 +1,8 @@
-My Portfolio 
+
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Your Portfolio</title>
+  <title>My Portfolio</title>
   <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
@@ -25,7 +25,7 @@ My Portfolio
   </section>
   
    <section id="Experience">
-    <h2>About Me</h2>
+    <h2>Experience</h2>
     <p>Introduce yourself and provide an overview of your background, skills, and interests in the field of data science.</p>
   </section>
 
