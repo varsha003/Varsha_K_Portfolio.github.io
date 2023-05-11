@@ -22,7 +22,7 @@
 
   <section id="About">
     <h2>About Me</h2>
-    <p>Introduce yourself and provide an overview of your background, skills, and interests in the field of data science.</p>
+    <p>An energetic and smart working person with a passion for continuous learning, I have a strong analytical mind and technical knowledge with great communication skills. I have total 4 years of work experience and my past employer was Tata Consultancy Service. My passion for data science and machine learning led me to transition my career into this field. I have been developing my skills and expertise through online courses, workshops, hands-on projects, interested in the position of Data Scientist/ML/NLP.</p>
   </section>
   
    <section id="Experience">
